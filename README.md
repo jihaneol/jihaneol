@@ -1,19 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HanEol's%20Record%20&fontSize=70)
 
-<!--
-**jihaneol/jihaneol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihaneol&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limz123)](http://solved.ac/profile/limz123)
+
+----
+
 <h3 align ="center"\>🔎 My Tech Stack🔍 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp
@@ -23,8 +16,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/vue-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/></a>&nbsp
 </p>
 
-----
+<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihaneol&show_icons=true&theme=radical)
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limz123)](http://solved.ac/profile/limz123)
+<h3 align ="center"\>  💻 Project 💻   </h3>
+
+----  
+1. HTRIP: OTT별 시청 컨텐츠 추천 및 스케쥴링을 통하여 바쁜 직장인들이 빠르게 볼 수 있도록 도움을 주는 어플리케이션 프로젝트
+&nbsp; &nbsp;
+[![Watchify](https://img.shields.io/badge/More-red?style=flat-square)]([https://github.com/Diligent0924/Watchify](https://github.com/jihaneol/HTrip)https://github.com/jihaneol/HTrip)

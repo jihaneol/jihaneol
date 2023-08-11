@@ -3,7 +3,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihaneol&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limz123)](http://solved.ac/profile/limz123)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limz123)](https://solved.ac/profile/limz123)
 
 ----
 

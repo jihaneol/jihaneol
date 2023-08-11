@@ -3,7 +3,20 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihaneol&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limz123)](https://solved.ac/profile/limz123)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limz123)](http://solved.ac/profile/limz123)
+  <h3 align ="center"\>🔎  Education 🔍 </h3>
+  
+* SSAFY (Samsumg Software Academy For Youth)
+  * Educatioin period : 23.01 ~ 진행중
+  * What did I learn : Spring, JPA, Algorithm etc
+
+---
+<h3 align ="center"\>🔎  Career 🔍 </h3>
+
+* 
+  *
+  *
+  *
 
 ----
 
@@ -22,6 +35,6 @@
 
 ----  
 
-1. HTRIP: OTT별 시청 컨텐츠 추천 및 스케쥴링을 통하여 바쁜 직장인들이 빠르게 볼 수 있도록 도움을 주는 어플리케이션 프로젝트
+1. HTRIP: 
 &nbsp; &nbsp;
 [![Watchify](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/jihaneol/HTrip)

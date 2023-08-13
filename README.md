@@ -35,6 +35,6 @@
 
 ----  
 
-1. HTRIP: 
+1. HTRIP: 여행 계획 웹 사이트
 &nbsp; &nbsp;
 [![Watchify](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/jihaneol/HTrip)

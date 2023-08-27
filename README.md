@@ -27,6 +27,11 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/vue-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=Github&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white"/></a>&nbsp
+
+
 </p>
 
 <br><br>

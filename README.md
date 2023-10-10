@@ -10,14 +10,6 @@
   * Educatioin period : 23.01 ~ 진행중
   * What did I learn : Spring, JPA, Algorithm etc
 
----
-<h3 align ="center"\>🔎  Career 🔍 </h3>
-
-* 
-  *
-  *
-  *
-
 ----
 
 <h3 align ="center"\>🔎 My Tech Stack🔍 </h3>

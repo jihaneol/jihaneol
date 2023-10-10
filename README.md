@@ -33,6 +33,14 @@
 
 ----  
 
-1. HTRIP: 여행 계획 웹 사이트
+1. MOZEY: 타인에 대한 호기심을 활용한 경제 지식 습득 서비스
+&nbsp; &nbsp;
+[![Watchify](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/jihaneol/MOZEY)
+
+2. Jeongchaegi: 청년 정책 SNS
+&nbsp; &nbsp;
+[![Watchify](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/jihaneol/Jeongchaegi)
+
+3. HTRIP: 여행 계획 웹 사이트
 &nbsp; &nbsp;
 [![Watchify](https://img.shields.io/badge/More-red?style=flat-square)](https://github.com/jihaneol/HTrip)

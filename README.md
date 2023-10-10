@@ -29,9 +29,11 @@
 
 <br><br>
 
+----  
+
 <h3 align ="center"\>  💻 Project 💻   </h3>
 
-----  
+
 
 1. MOZEY: 타인에 대한 호기심을 활용한 경제 지식 습득 서비스
 &nbsp; &nbsp;

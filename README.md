@@ -7,7 +7,7 @@
   <h3 align ="center"\>🔎  Education 🔍 </h3>
   
 * SSAFY (Samsumg Software Academy For Youth)
-  * Educatioin period : 23.01 ~ 진행중
+  * Educatioin period : 23.01 ~ 23.12
   * What did I learn : Spring, JPA, Algorithm etc
 
 ----

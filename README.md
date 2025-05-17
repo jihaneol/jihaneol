@@ -6,16 +6,31 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limz123)](http://solved.ac/profile/limz123)
 # My Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JPA-59666C?style=plastic&logo=hibernate&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/vue-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=Github&logoColor=white"/></a>&nbsp
+
+<p>
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"></a>&nbsp
+ <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+ <br>
+ <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"></a>&nbsp 
+ <img src="https://img.shields.io/badge/MyBatis-E6B91E?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
+ <br>
+ <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp 
+ <br>
+ <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
+ <br>
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/> </a>&nbsp
+ <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=Github&logoColor=white"/></a>&nbsp
 </p>
+
 
 # Exprerience
 

@@ -1,9 +1,18 @@
+
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HanEol's%20Record%20&fontSize=70)
 
+</div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihaneol&show_icons=true&theme=radical)
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihaneol&langs_count=10&layout=compact&theme=dark)](https://github.com/jihaneol)
+
+
+
+
+
+ 
+
 
  # My Tech Stack
 
@@ -66,4 +75,15 @@
 청년들을 위한 정책들을 모아서 손쉽게 신청하고 알림을 보내는 서비스 (2023.07 - 2023.08)
 <br>
 (❗ SSAFY 2nd First Project ❗)
+
+
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihaneol&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihaneol&langs_count=10&layout=compact&theme=dark)](https://github.com/jihaneol)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=jihaneol&)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=limz123)](https://solved.ac/limz123)
+
+</div>
 
